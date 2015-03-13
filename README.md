@@ -1,3 +1,4 @@
+ixl.com provides the following chapters to learn the requirements of Trigonometry in High School level:
 http://www.ixl.com/math/algebra-1
 Trigonometry
 
