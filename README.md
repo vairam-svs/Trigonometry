@@ -7,15 +7,15 @@ Mathisfun provides information in the following topics. Visit their website for 
 http://www.mathsisfun.com/algebra/trigonometry-index.html
 Introduction
 
-• The Triangle
-• Triangle Inequality Theorem
-• Interactive Triangles
-• Introduction to Trigonometry
+The Triangle
+Triangle Inequality Theorem
+Interactive Triangles
+Introduction to Trigonometry
 
 Sine, Cosine and Tangent 
-• Sine, Cosine and Tangent
-• Sohcahtoa
-• Sine Graph Exercise
+Sine, Cosine and Tangent
+Sohcahtoa
+Sine Graph Exercise
 • Graphs of Sine, Cosine and Tangent
 • Unit Circle
 • Interactive Unit Circle
