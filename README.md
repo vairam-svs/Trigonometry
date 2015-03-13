@@ -7,58 +7,55 @@ Mathisfun provides information in the following topics. Visit their website for 
 http://www.mathsisfun.com/algebra/trigonometry-index.html
 Introduction
 
-The Triangle
-Triangle Inequality Theorem
-Interactive Triangles
-Introduction to Trigonometry
+    The Triangle
+    Triangle Inequality Theorem
+    Interactive Triangles
+    Introduction to Trigonometry
 
 Sine, Cosine and Tangent 
-Sine, Cosine and Tangent
-Sohcahtoa
-Sine Graph Exercise
-• Graphs of Sine, Cosine and Tangent
-• Unit Circle
-• Interactive Unit Circle
-• Sine, Cosine and Tangent in Four Quadrants
-• Inverse Sine, Cosine, Tangent
+    Sine, Cosine and Tangent
+    Sohcahtoa
+    Sine Graph Exercise
+    Graphs of Sine, Cosine and Tangent
+    Unit Circle
+    Interactive Unit Circle
+    Sine, Cosine and Tangent in Four Quadrants
+    Inverse Sine, Cosine, Tangent
 
 Right Angled Triangles 
-• Solving Triangles by Reflection
-• Finding an Angle in a Right Angled Triangle
-• Finding a Side in a Right Angled Triangle
+    Solving Triangles by Reflection
+    Finding an Angle in a Right Angled Triangle
+    Finding a Side in a Right Angled Triangle
 
 Congruent and Similar
-• Congruent Triangles
-• Similar Triangles
-• Theorems about Similar Triangles
+    Congruent Triangles
+    Similar Triangles
+    Theorems about Similar Triangles
 
 Solving Triangles 
 
 SAS Triangle
-• Solving Triangles
-• The Law of Sines
-• The Law of Cosines
-• The Three Angles Add to 180°
-• Exterior Angle Theorem
-• Solving AAA Triangles
-• Solving AAS Triangles
-• Solving ASA Triangles
-• Solving SAS Triangles
-• Solving SSA Triangles
-• Solving SSS Triangles
-• Triangle Solving Practice
+    Solving Triangles
+    The Law of Sines
+    The Law of Cosines
+    The Three Angles Add to 180°
+    Exterior Angle Theorem
+    Solving AAA Triangles
+    Solving AAS Triangles
+    Solving ASA Triangles
+    Solving SAS Triangles
+    Solving SSA Triangles
+    Solving SSS Triangles
+    Triangle Solving Practice
 
 Area 
-
-
-• Area of a Triangle without a Right Angle
-
-• Heron's Formula
+    Area of a Triangle without a Right Angle
+    Heron's Formula
 
 Identities
-• Trigonometric Identities
-• Magic Hexagon
-• Triangle Identities
+    Trigonometric Identities
+    Magic Hexagon
+     Triangle Identities
 
 ixl.com provides the following chapters to learn the requirements of Trigonometry in High School level:
 http://www.ixl.com/math/algebra-1
